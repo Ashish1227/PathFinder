@@ -1,0 +1,301 @@
+user_id,len_0,len_1,len_2,len_3,time_0,time_1,time_2,time_3,easy,medium,hard,Tags
+1,0,0,1,0,0,1,0,0,0,1,0,"Historic site, Historic site"
+2,0,1,0,0,0,0,1,0,1,0,0,"Fishing, Muddy"
+3,1,0,0,0,0,0,0,1,1,0,0,"Dogs on leash, Muddy"
+4,0,1,0,0,0,1,0,0,0,0,1,Waterfall
+5,0,1,0,0,1,0,0,0,0,0,1,"Hiking, City walk"
+6,0,0,1,0,0,1,0,0,0,1,0,Horseback riding
+7,0,1,0,0,0,0,1,0,0,1,0,"Rock climbing, Mountain biking, Scramble"
+8,0,1,0,0,0,0,1,0,0,1,0,"Bugs, Historic site, Views"
+9,0,0,0,1,1,0,0,0,0,0,1,Backpacking
+10,0,0,1,0,0,0,1,0,0,0,1,Washed out
+11,0,0,0,1,0,1,0,0,0,0,1,Washed out
+12,0,0,1,0,0,0,1,0,0,1,0,Paved
+13,0,1,0,0,0,0,0,1,0,0,1,"Scenic driving, Stroller friendly"
+14,0,0,0,1,0,0,1,0,1,0,0,"No dogs, Lake"
+15,0,1,0,0,1,0,0,0,0,1,0,Dogs on leash
+16,0,0,1,0,0,1,0,0,0,0,1,Stroller friendly
+17,0,0,0,1,0,0,1,0,0,0,1,Dog friendly
+18,0,1,0,0,0,1,0,0,0,0,1,"No shade, Rock climbing"
+19,1,0,0,0,0,0,0,1,0,0,1,Snowshoeing
+20,0,1,0,0,0,0,1,0,1,0,0,"Wildflowers, Snowshoeing"
+21,0,1,0,0,0,0,1,0,1,0,0,Forest
+22,0,1,0,0,0,1,0,0,0,0,1,"Dog friendly, Wheelchair friendly"
+23,0,0,1,0,0,0,1,0,1,0,0,"Scenic driving, Horseback riding, Walking"
+24,1,0,0,0,0,0,1,0,1,0,0,Pub walk
+25,0,0,1,0,0,0,0,1,0,1,0,"Bridge out, Mountain biking, Pub walk"
+26,0,1,0,0,0,1,0,0,0,1,0,"Stroller friendly, Bugs, Off trail"
+27,0,0,1,0,0,1,0,0,0,1,0,Bike touring
+28,0,0,0,1,1,0,0,0,0,1,0,"Muddy, Bridge out, Road biking, Running"
+29,0,1,0,0,0,1,0,0,0,1,0,"Waterfall, Dog friendly"
+30,0,0,0,1,0,0,0,1,0,0,1,"Running, Partially paved"
+31,0,0,1,0,0,0,1,0,0,1,0,"Lake, Backpacking, Running"
+32,0,1,0,0,0,1,0,0,0,1,0,"Fishing, Pub walk"
+33,0,0,1,0,0,0,1,0,1,0,0,"Lake, Pub walk, Scramble"
+34,1,0,0,0,0,0,1,0,1,0,0,Wildflowers
+35,0,0,1,0,0,1,0,0,1,0,0,No dogs
+36,0,1,0,0,1,0,0,0,0,1,0,"Dogs on leash, Bird watching"
+37,0,0,0,1,0,1,0,0,1,0,0,"Wheelchair friendly, Fee, Waterfall"
+38,1,0,0,0,1,0,0,0,0,0,1,"Via ferrata, Wildflowers"
+39,0,1,0,0,0,1,0,0,1,0,0,"Kid friendly, Camping"
+40,0,0,0,1,0,0,1,0,0,1,0,Cave
+41,1,0,0,0,0,1,0,0,0,1,0,"Pub walk, Scramble, Skiing"
+42,0,1,0,0,1,0,0,0,0,1,0,"Skiing, Scenic driving"
+43,0,0,0,1,0,0,0,1,1,0,0,Rails trails
+44,0,0,1,0,0,0,1,0,0,1,0,"No dogs, Muddy"
+45,0,0,1,0,0,0,0,1,0,0,1,Washed out
+46,0,1,0,0,0,0,0,1,1,0,0,Wheelchair friendly
+47,0,1,0,0,0,0,0,1,1,0,0,"Bridge out, Bugs, Walking"
+48,0,0,0,1,0,1,0,0,1,0,0,Road biking
+49,0,0,1,0,0,1,0,0,0,1,0,"Partially paved, Fee, Rock climbing"
+50,0,0,0,1,0,0,1,0,0,1,0,"Off-road driving, Backpacking"
+51,0,1,0,0,0,0,1,0,1,0,0,"Forest, Bugs"
+52,1,0,0,0,0,0,1,0,0,0,1,"Road biking, Snow"
+53,0,0,0,1,0,1,0,0,0,0,1,"Walking, Bike touring, No shade, Scenic driving"
+54,1,0,0,0,0,1,0,0,0,1,0,"Waterfall, Muddy"
+55,0,0,0,1,0,0,0,1,0,1,0,"Beach, Paved"
+56,0,0,1,0,0,0,0,1,1,0,0,"Kid friendly, Backpacking"
+57,0,0,0,1,0,0,1,0,1,0,0,"Rocky, No shade"
+58,0,1,0,0,0,0,1,0,1,0,0,"Snow, Wildflowers"
+59,0,1,0,0,0,0,0,1,0,1,0,"Muddy, Lake, Off trail, Snow"
+60,1,0,0,0,0,0,0,1,1,0,0,"Rocky, Off trail, Wildlife"
+61,0,0,0,1,0,1,0,0,0,1,0,"Bugs, Hiking, River"
+62,1,0,0,0,0,0,1,0,1,0,0,Wildflowers
+63,0,0,1,0,0,0,1,0,0,0,1,"Cave, Camping, No dogs, Partially paved"
+64,0,0,1,0,0,0,0,1,1,0,0,"Wildlife, Off trail"
+65,0,0,0,1,0,0,1,0,0,1,0,"Hot springs, Muddy"
+66,1,0,0,0,0,1,0,0,1,0,0,"Via ferrata, No dogs"
+67,1,0,0,0,1,0,0,0,1,0,0,"Fishing, Fee"
+68,1,0,0,0,0,0,1,0,1,0,0,"Road biking, Horseback riding"
+69,0,1,0,0,0,0,0,1,0,0,1,"Camping, Kid friendly"
+70,0,0,1,0,1,0,0,0,0,0,1,Mountain biking
+71,0,0,1,0,0,1,0,0,0,0,1,"No shade, Wheelchair friendly"
+72,0,0,1,0,0,0,1,0,0,0,1,"Forest, Backpacking"
+73,0,0,1,0,0,0,0,1,0,1,0,Bike touring
+74,0,1,0,0,1,0,0,0,0,1,0,"Washed out, Historic site"
+75,0,0,0,1,1,0,0,0,1,0,0,"Walking, Dogs on leash"
+76,0,1,0,0,0,0,0,1,1,0,0,Rocky
+77,0,1,0,0,1,0,0,0,0,0,1,"Snowshoeing, Snowshoeing"
+78,0,1,0,0,0,0,1,0,0,0,1,"Partially paved, River"
+79,0,0,1,0,1,0,0,0,1,0,0,"Backpacking, No dogs"
+80,0,0,1,0,1,0,0,0,1,0,0,"River, Fishing, Muddy, Stroller friendly"
+81,0,1,0,0,1,0,0,0,0,1,0,Scramble
+82,1,0,0,0,0,1,0,0,1,0,0,"Wildlife, Bird watching"
+83,0,0,0,1,0,0,0,1,0,0,1,Snow
+84,0,1,0,0,0,1,0,0,0,1,0,No dogs
+85,1,0,0,0,0,0,0,1,1,0,0,"Lake, Skiing"
+86,0,0,0,1,0,0,1,0,0,0,1,"Kid friendly, Scramble"
+87,0,0,1,0,0,0,0,1,0,0,1,"Cave, Running"
+88,0,1,0,0,0,1,0,0,0,1,0,"Wheelchair friendly, Beach"
+89,0,0,1,0,0,0,0,1,0,0,1,"Muddy, Bugs, Wildflowers, Wildlife"
+90,1,0,0,0,0,0,1,0,0,1,0,"Bike touring, Walking"
+91,0,0,1,0,0,1,0,0,0,0,1,"Waterfall, Off trail"
+92,0,0,1,0,0,1,0,0,0,0,1,"Waterfall, Paddle sports"
+93,0,0,1,0,0,1,0,0,0,0,1,Mountain biking
+94,0,0,0,1,0,0,0,1,0,1,0,"Scenic driving, Hot springs, Mountain biking, Partially paved"
+95,0,0,1,0,0,0,1,0,0,1,0,"Off trail, Wildflowers"
+96,0,0,1,0,0,0,1,0,0,1,0,"Mountain biking, Fishing"
+97,0,0,0,1,0,1,0,0,0,1,0,Dogs on leash
+98,1,0,0,0,1,0,0,0,0,0,1,"Beach, Backpacking, Fishing, Waterfall"
+99,1,0,0,0,0,0,1,0,1,0,0,"Snow, Historic site"
+100,0,0,0,1,0,0,1,0,0,1,0,"Wheelchair friendly, Beach, River"
+101,1,0,0,0,0,1,0,0,0,1,0,Cave
+102,1,0,0,0,0,0,1,0,0,1,0,"Lake, Fee"
+103,0,1,0,0,0,0,0,1,1,0,0,"City walk, Paddle sports, Scramble"
+104,0,0,0,1,0,0,0,1,0,1,0,"Via ferrata, City walk, Dogs on leash, Paddle sports"
+105,1,0,0,0,0,0,0,1,1,0,0,"Historic site, Bridge out"
+106,0,0,1,0,0,0,1,0,1,0,0,"Beach, Beach"
+107,0,0,0,1,0,1,0,0,0,0,1,"Rocky, Skiing, Wildlife"
+108,0,0,0,1,1,0,0,0,0,0,1,"No shade, Beach, Partially paved"
+109,0,0,1,0,0,1,0,0,0,1,0,"Rails trails, Fee"
+110,0,1,0,0,1,0,0,0,0,1,0,"Paddle sports, Scramble"
+111,0,1,0,0,0,1,0,0,0,0,1,"Overgrown, Mountain biking, Partially paved"
+112,0,1,0,0,0,1,0,0,1,0,0,"Partially paved, Muddy"
+113,1,0,0,0,0,1,0,0,0,1,0,"Muddy, Fee"
+114,0,0,0,1,1,0,0,0,0,0,1,Camping
+115,0,0,0,1,0,0,0,1,1,0,0,"Bugs, Beach"
+116,0,0,1,0,1,0,0,0,0,0,1,"Running, Waterfall"
+117,0,0,0,1,0,1,0,0,0,1,0,"Bugs, Paddle sports"
+118,0,0,0,1,0,1,0,0,1,0,0,Historic site
+119,1,0,0,0,0,1,0,0,0,1,0,"Pub walk, Snowshoeing"
+120,0,1,0,0,1,0,0,0,0,0,1,Views
+121,0,0,0,1,0,0,1,0,0,0,1,Snowshoeing
+122,0,1,0,0,0,0,1,0,0,1,0,Mountain biking
+123,1,0,0,0,0,0,1,0,0,1,0,"Overgrown, Paved"
+124,0,0,1,0,0,0,0,1,1,0,0,"Stroller friendly, Muddy, Scramble"
+125,0,1,0,0,0,1,0,0,0,0,1,"Lake, Forest"
+126,0,0,0,1,0,1,0,0,0,1,0,Dog friendly
+127,0,1,0,0,0,0,0,1,0,0,1,"Wildflowers, Lake, Off-road driving, Paved, Snowshoeing"
+128,0,0,0,1,0,0,0,1,0,1,0,"Stroller friendly, Wildflowers"
+129,0,0,1,0,0,1,0,0,0,1,0,"Skiing, Muddy, River, Washed out"
+130,0,0,0,1,1,0,0,0,1,0,0,"Rails trails, Bird watching, Bugs"
+131,0,0,0,1,0,0,0,1,0,1,0,"Camping, Horseback riding"
+132,0,0,0,1,0,0,1,0,0,1,0,Paved
+133,1,0,0,0,0,0,0,1,0,0,1,"Dog friendly, Backpacking"
+134,0,0,1,0,0,0,1,0,1,0,0,Views
+135,0,0,1,0,1,0,0,0,0,1,0,"Fishing, Dog friendly, Running, Views"
+136,1,0,0,0,0,1,0,0,0,0,1,"Fishing, City walk"
+137,0,0,1,0,0,0,1,0,0,0,1,"Mountain biking, Dog friendly, Historic site"
+138,0,0,0,1,0,0,1,0,1,0,0,Partially paved
+139,0,0,0,1,1,0,0,0,1,0,0,Rocky
+140,0,0,1,0,1,0,0,0,1,0,0,Off trail
+141,0,1,0,0,0,0,1,0,0,0,1,Fishing
+142,0,0,1,0,0,0,1,0,1,0,0,"Stroller friendly, Kid friendly"
+143,0,1,0,0,0,0,1,0,0,0,1,"Via ferrata, Partially paved"
+144,1,0,0,0,0,0,1,0,1,0,0,"Rocky, No dogs"
+145,1,0,0,0,1,0,0,0,1,0,0,Pub walk
+146,0,1,0,0,0,0,0,1,0,1,0,"Muddy, Mountain biking, Waterfall"
+147,0,0,1,0,0,0,1,0,1,0,0,"Off trail, Hot springs, Rocky"
+148,0,0,0,1,0,1,0,0,0,0,1,"Pub walk, Bugs"
+149,0,1,0,0,1,0,0,0,1,0,0,"Partially paved, Hot springs, Stroller friendly"
+150,1,0,0,0,0,0,0,1,0,0,1,"Running, Muddy, Stroller friendly, Walking"
+151,0,0,1,0,0,0,0,1,0,0,1,"No dogs, Cave, Fishing"
+152,0,0,0,1,1,0,0,0,1,0,0,"Hiking, Historic site"
+153,0,0,0,1,0,1,0,0,1,0,0,"No shade, Paved"
+154,0,0,1,0,0,1,0,0,0,1,0,Forest
+155,1,0,0,0,0,1,0,0,0,1,0,Dogs on leash
+156,0,1,0,0,0,0,1,0,0,1,0,"Rock climbing, Paddle sports"
+157,0,0,0,1,0,1,0,0,0,0,1,"Bridge out, Fee, No dogs"
+158,0,1,0,0,0,1,0,0,0,1,0,Scenic driving
+159,0,1,0,0,0,0,1,0,0,0,1,"Paddle sports, Dog friendly, Partially paved"
+160,0,0,0,1,0,0,1,0,0,1,0,"Bird watching, Off trail, Road biking, Snow"
+161,0,0,1,0,1,0,0,0,0,0,1,Dog friendly
+162,0,0,1,0,0,0,0,1,0,0,1,Running
+163,0,1,0,0,0,1,0,0,0,1,0,"Bird watching, Fee, Paddle sports"
+164,0,1,0,0,0,0,1,0,0,0,1,"Paddle sports, Running"
+165,0,0,1,0,0,0,1,0,1,0,0,"Running, City walk, Pub walk"
+166,0,1,0,0,0,0,1,0,0,1,0,Snowshoeing
+167,0,0,1,0,0,0,1,0,0,0,1,"Hot springs, Running"
+168,0,0,1,0,0,1,0,0,1,0,0,"Running, Fee, Off trail"
+169,0,0,1,0,1,0,0,0,0,0,1,Snowshoeing
+170,0,1,0,0,0,0,1,0,0,0,1,"Off trail, No dogs"
+171,0,0,1,0,0,0,1,0,1,0,0,"Fishing, Lake"
+172,0,1,0,0,0,1,0,0,1,0,0,"Road biking, Fee"
+173,0,0,1,0,0,1,0,0,0,0,1,"Fee, Historic site, Lake, Overgrown"
+174,0,0,1,0,0,0,1,0,0,1,0,"City walk, Bugs, Fee, Partially paved, Running"
+175,0,0,0,1,1,0,0,0,0,1,0,"Paddle sports, Cave"
+176,0,1,0,0,1,0,0,0,0,1,0,"Overgrown, Running"
+177,0,1,0,0,1,0,0,0,0,0,1,Muddy
+178,1,0,0,0,0,0,1,0,1,0,0,Paved
+179,1,0,0,0,0,0,1,0,0,0,1,Pub walk
+180,0,0,1,0,0,1,0,0,0,1,0,"Cave, Paddle sports, Walking, Wildflowers"
+181,1,0,0,0,0,0,1,0,0,1,0,Snowshoeing
+182,0,0,1,0,0,0,1,0,0,0,1,Hiking
+183,0,0,1,0,0,1,0,0,0,0,1,"Wheelchair friendly, Scenic driving"
+184,0,0,1,0,1,0,0,0,0,0,1,"Off trail, Lake, Rails trails"
+185,0,1,0,0,0,0,1,0,0,0,1,"Rails trails, Fishing"
+186,1,0,0,0,0,0,0,1,0,1,0,"Cave, Paved"
+187,0,0,1,0,0,0,1,0,0,1,0,"Rocky, Lake"
+188,1,0,0,0,0,0,0,1,0,0,1,"Paddle sports, Fee, Muddy, Wheelchair friendly"
+189,0,1,0,0,1,0,0,0,0,0,1,"Wildlife, Mountain biking"
+190,0,0,1,0,0,0,1,0,0,0,1,"Bike touring, Snow"
+191,0,0,0,1,0,0,0,1,1,0,0,Camping
+192,0,1,0,0,0,1,0,0,1,0,0,"No shade, Scramble"
+193,0,0,1,0,0,1,0,0,1,0,0,Fishing
+194,0,1,0,0,0,0,1,0,0,1,0,"Mountain biking, Hiking, Horseback riding"
+195,0,0,1,0,0,1,0,0,0,1,0,"River, Off trail"
+196,0,0,0,1,1,0,0,0,0,1,0,"Backpacking, Historic site"
+197,0,0,1,0,0,0,1,0,0,1,0,"Running, Camping, Lake, Paddle sports"
+198,0,0,1,0,0,0,1,0,0,1,0,Stroller friendly
+199,1,0,0,0,1,0,0,0,0,1,0,"Partially paved, Muddy"
+200,0,1,0,0,1,0,0,0,0,1,0,"Snow, Road biking"
+201,0,0,1,0,0,1,0,0,0,0,1,Kid friendly
+202,0,0,0,1,1,0,0,0,1,0,0,Dogs on leash
+203,0,0,1,0,0,0,1,0,1,0,0,Beach
+204,0,1,0,0,1,0,0,0,0,0,1,"Partially paved, Washed out"
+205,1,0,0,0,0,1,0,0,1,0,0,Washed out
+206,0,0,1,0,0,0,0,1,0,1,0,Hot springs
+207,0,0,1,0,0,1,0,0,1,0,0,"Walking, Mountain biking, Road biking"
+208,0,0,0,1,0,0,0,1,1,0,0,Hiking
+209,0,1,0,0,0,0,1,0,1,0,0,Walking
+210,0,1,0,0,0,0,1,0,0,0,1,"Pub walk, Skiing"
+211,0,0,0,1,1,0,0,0,1,0,0,Stroller friendly
+212,0,1,0,0,0,1,0,0,0,0,1,Dogs on leash
+213,0,0,1,0,0,1,0,0,0,1,0,"Beach, Cave, Dog friendly, No dogs"
+214,0,0,1,0,1,0,0,0,0,0,1,"Stroller friendly, No dogs, Paved"
+215,0,0,1,0,0,1,0,0,1,0,0,Forest
+216,1,0,0,0,0,1,0,0,1,0,0,"Wheelchair friendly, Bugs, Skiing"
+217,1,0,0,0,1,0,0,0,1,0,0,"Paved, Scramble, Waterfall"
+218,0,0,1,0,0,1,0,0,0,0,1,"Dogs on leash, Lake"
+219,0,0,1,0,0,1,0,0,0,0,1,"City walk, Snow"
+220,1,0,0,0,0,0,0,1,0,0,1,Cave
+221,1,0,0,0,0,0,1,0,0,0,1,Horseback riding
+222,0,0,1,0,0,0,1,0,1,0,0,Paddle sports
+223,0,0,0,1,0,0,0,1,0,0,1,Horseback riding
+224,0,1,0,0,0,0,1,0,0,0,1,"Rocky, Bike touring, Historic site, Snowshoeing"
+225,0,1,0,0,0,1,0,0,1,0,0,Running
+226,1,0,0,0,0,1,0,0,0,1,0,"Bird watching, Wheelchair friendly"
+227,0,1,0,0,0,0,1,0,0,1,0,"Wildlife, Via ferrata"
+228,0,0,1,0,0,1,0,0,0,0,1,Walking
+229,0,1,0,0,0,1,0,0,0,1,0,Paddle sports
+230,0,0,0,1,0,0,1,0,1,0,0,Bridge out
+231,0,0,1,0,0,0,1,0,1,0,0,"Rails trails, Muddy"
+232,0,1,0,0,0,1,0,0,0,1,0,"Rails trails, Paddle sports"
+233,0,0,0,1,0,0,0,1,0,0,1,"Hot springs, Hiking"
+234,0,0,1,0,0,0,1,0,1,0,0,"Forest, Cave, Partially paved"
+235,1,0,0,0,0,1,0,0,0,0,1,"Paved, Muddy, Stroller friendly"
+236,0,0,0,1,0,1,0,0,0,1,0,"Wildlife, Forest"
+237,0,0,1,0,0,0,1,0,0,0,1,Bird watching
+238,0,0,1,0,0,1,0,0,0,0,1,Running
+239,0,0,1,0,1,0,0,0,0,1,0,"Beach, Paved"
+240,1,0,0,0,0,1,0,0,0,1,0,"Scramble, No dogs, Scenic driving"
+241,0,0,1,0,0,1,0,0,0,0,1,Forest
+242,1,0,0,0,0,0,0,1,1,0,0,Backpacking
+243,0,0,0,1,0,1,0,0,1,0,0,Bike touring
+244,0,0,0,1,1,0,0,0,0,0,1,"Historic site, Muddy"
+245,0,0,0,1,0,1,0,0,0,1,0,"Rails trails, Running"
+246,0,0,0,1,1,0,0,0,1,0,0,Pub walk
+247,0,1,0,0,0,1,0,0,1,0,0,"Hot springs, Hiking"
+248,0,0,1,0,0,0,1,0,0,0,1,City walk
+249,1,0,0,0,0,1,0,0,1,0,0,"Cave, City walk, Views"
+250,0,1,0,0,0,0,1,0,0,1,0,"Rocky, Muddy"
+251,0,0,1,0,0,1,0,0,0,1,0,Via ferrata
+252,0,0,1,0,1,0,0,0,1,0,0,Forest
+253,0,0,0,1,1,0,0,0,0,0,1,"No dogs, Wildflowers"
+254,0,0,1,0,1,0,0,0,1,0,0,"Skiing, Muddy, Road biking, Walking"
+255,0,0,0,1,0,1,0,0,1,0,0,"Running, Hiking"
+256,0,0,1,0,0,1,0,0,1,0,0,Scramble
+257,0,0,1,0,0,0,0,1,1,0,0,Off-road driving
+258,0,0,1,0,0,1,0,0,1,0,0,"Stroller friendly, Pub walk"
+259,0,0,0,1,0,1,0,0,1,0,0,Fee
+260,1,0,0,0,0,0,1,0,1,0,0,"Hiking, Fee, Skiing"
+261,0,0,0,1,0,0,1,0,1,0,0,Historic site
+262,0,0,0,1,0,0,1,0,0,0,1,"Paddle sports, Overgrown"
+263,0,0,0,1,0,1,0,0,1,0,0,"Wildlife, No dogs"
+264,0,1,0,0,0,0,1,0,0,1,0,"Horseback riding, Hiking"
+265,1,0,0,0,0,0,1,0,1,0,0,"Hot springs, Rocky, Scramble"
+266,0,0,1,0,1,0,0,0,1,0,0,"No shade, Mountain biking"
+267,0,0,1,0,0,0,1,0,1,0,0,"Fee, Forest, Horseback riding"
+268,0,0,0,1,0,0,1,0,0,1,0,Running
+269,1,0,0,0,1,0,0,0,0,1,0,"Running, Backpacking, Historic site, Snowshoeing"
+270,1,0,0,0,0,1,0,0,0,1,0,"No shade, Paddle sports, Running"
+271,0,0,1,0,0,0,1,0,0,1,0,"Rock climbing, No shade"
+272,0,1,0,0,0,0,0,1,0,0,1,"No dogs, Historic site, Paved, Views"
+273,0,0,1,0,0,0,0,1,0,1,0,"Kid friendly, No shade, Wildlife"
+274,0,0,0,1,0,0,0,1,1,0,0,Dogs on leash
+275,0,0,0,1,1,0,0,0,0,1,0,Paved
+276,0,1,0,0,0,1,0,0,1,0,0,"Paddle sports, Muddy"
+277,0,1,0,0,1,0,0,0,0,1,0,"Forest, Wildflowers"
+278,1,0,0,0,0,0,1,0,0,1,0,"Bird watching, Bugs, Fee, Paddle sports, Paved"
+279,0,1,0,0,0,0,1,0,1,0,0,"Dogs on leash, No shade"
+280,0,0,1,0,0,1,0,0,0,0,1,"Running, Forest, Off trail, Waterfall"
+281,1,0,0,0,0,0,1,0,0,0,1,"Wheelchair friendly, Kid friendly, Washed out, Wildflowers, Wildlife"
+282,0,0,1,0,0,0,1,0,0,0,1,Partially paved
+283,1,0,0,0,0,1,0,0,0,1,0,"Dogs on leash, No shade"
+284,1,0,0,0,0,1,0,0,0,1,0,Camping
+285,0,0,1,0,1,0,0,0,0,1,0,"Snow, Fishing"
+286,0,0,1,0,0,1,0,0,1,0,0,Off trail
+287,0,0,0,1,1,0,0,0,0,1,0,"Running, Paddle sports"
+288,0,0,1,0,1,0,0,0,0,1,0,"Pub walk, No shade"
+289,0,0,0,1,0,0,1,0,0,0,1,Lake
+290,0,0,1,0,1,0,0,0,0,1,0,Bridge out
+291,0,0,0,1,0,0,1,0,0,0,1,"Partially paved, Beach, Hiking"
+292,0,1,0,0,0,1,0,0,0,1,0,Muddy
+293,0,0,1,0,0,0,1,0,0,1,0,No dogs
+294,0,0,1,0,0,0,0,1,1,0,0,"Bridge out, Bridge out, Fee, Walking"
+295,0,0,0,1,0,0,1,0,0,1,0,"Fee, Hot springs"
+296,0,1,0,0,1,0,0,0,0,0,1,"Rocky, Hot springs"
+297,0,1,0,0,0,1,0,0,0,0,1,"Cave, Bugs"
+298,0,0,0,1,0,0,0,1,0,1,0,"Partially paved, Off-road driving, Paved"
+299,0,1,0,0,0,1,0,0,0,0,1,"No dogs, Wildflowers"
+300,0,1,0,0,0,1,0,0,0,1,0,"Paved, Historic site, Overgrown"
